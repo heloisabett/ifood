@@ -1,10 +1,10 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-export default function Buscas() {
+export default function Pedidos() {
   return (
     <View style={styles.container}>
-      <Text>Buscas</Text>
+      <Text>Pedidoss</Text>
     </View>
   );
 }
